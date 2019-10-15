@@ -1,4 +1,4 @@
-# Electromagnetics with steel cased wells
+# Project Psyched: A Closer Look Into Reproducibility In Psychological Research
 ## Data Science Honors Thesis 19-20
 
 [![License](https://img.shields.io/github/license/simpeg-research/heagy-2018-em-casing.svg)](https://github.com/yuyang-zhong/project-psyched/blob/master/LICENSE)
