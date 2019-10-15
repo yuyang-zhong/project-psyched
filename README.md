@@ -1,7 +1,7 @@
 # Project Psyched: A Closer Look Into Reproducibility In Psychological Research
 ### Data Science Honors Thesis
-### Yuyang Zhong
-### University of California, Berkeley
+#### Yuyang Zhong
+#### University of California, Berkeley
 
 [![License](https://img.shields.io/github/license/simpeg-research/heagy-2018-em-casing.svg)](https://github.com/yuyang-zhong/project-psyched/blob/master/LICENSE)
 
