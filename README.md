@@ -10,4 +10,4 @@ If you run into problems or bugs, please let me know by [creating an issue](http
 
 ## License
 
-These notebooks are licensed under C[reative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+These notebooks are licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/).
