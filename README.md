@@ -2,7 +2,7 @@
 ### Data Science Honors Thesis
 #### Yuyang Zhong | University of California, Berkeley
 
-![CC BY-NC-SA 4.0][https://img.shields.io/badge/license-CC--BY--NC--SA%204.0-blue]
+[![CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC--BY--NC--SA%204.0-blue)](https://github.com/yuyang-zhong/project-psyched/blob/master/LICENSE)
 
 ## Issues
 
