@@ -2,7 +2,7 @@
 ### Data Science Honors Thesis
 #### Yuyang Zhong | University of California, Berkeley
 
-[![License](https://img.shields.io/github/license/simpeg-research/heagy-2018-em-casing.svg)](https://github.com/yuyang-zhong/project-psyched/blob/master/LICENSE)
+![CC BY-NC-SA 4.0][https://img.shields.io/badge/license-CC--BY--NC--SA%204.0-blue]
 
 ## Issues
 
@@ -10,4 +10,4 @@ If you run into problems or bugs, please let me know by [creating an issue](http
 
 ## License
 
-These notebooks are licensed under the [MIT License](/LICENSE) which allows academic and commercial re-use and adaptation of this work.
+These notebooks are licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
