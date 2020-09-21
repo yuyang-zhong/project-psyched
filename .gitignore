@@ -1,4 +1,5 @@
 .DS_Store
+.Rhistory
 articles/
 data/*.txt
 */.ipynb_checkpoints/
